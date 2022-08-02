@@ -1,0 +1,218 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #293651;
+  }
+  .inicio{
+    background-image: url(../img/wave-haikei.svg);
+    background-position: center;
+    background-size: cover;
+  }
+  .topo{
+    color:#00a78e;
+    font-weight: unset;
+    font-size: 30px;
+    letter-spacing: 4px;
+  }
+  .page{
+    text-align: right;
+    margin-right: 50px;
+    position: sticky;
+    top: 10px;
+    background-color: #00a78e;
+  }
+  .menu{
+    display: inline-block;
+    font-size: 16px;
+    padding: 4px;
+    color: aliceblue;
+    box-sizing: border-box;
+    cursor: pointer;  
+  }
+  a{
+    text-decoration: none;
+    color: aliceblue;
+  }
+  a:hover{
+    color: #293651;
+  }
+  .menu:hover{
+    color: #293651;
+  }
+  .free{
+    text-align: right;
+    margin-right: 80px;
+    color: aliceblue;
+    font-size: 20px;
+  }
+  .container{
+    margin: 40px 100px 150px 100px;
+    box-sizing: border-box;
+  }
+  .btn{
+    color: white;
+    padding: 15px 30px 15px 30px;
+    background-color:#00a78e;
+    border: none;
+    border-radius: 40px 10px;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  .btn:hover{
+    color: #293651;
+  }
+  .regiao{
+    display: inline-block;
+    box-sizing: border-box;
+  }
+  .descricao{
+    text-align: right;
+    width: 650px;
+  }
+  .figura{
+    width: 400px;
+  }
+  .destaque{
+    font-weight: 900;
+  }
+  h3{
+    font-weight: unset;
+    font-size: 30px;
+    font-weight: bold; 
+  }
+  .informacoes{
+    text-align: justify;
+    padding: 100px 200px 100px 200px;
+    background-color: #f9f9f9;
+  }
+  .prof{
+    line-height: 30px;
+  }
+
+  .informacoes2{
+    background-color: white;
+    box-sizing: border-box;
+  }
+  .habil{
+    display: inline-block;
+  }
+  .exp{
+    width: 800px;
+    text-align: justify;
+    line-height: 40px;
+  }
+  .desenv{
+    width: 480px;
+  }
+  .sob{
+    margin-top: 60px;
+    margin-bottom: 0px;
+    text-align: center;
+  }
+  .sou{
+    font-family: 'Concert One', cursive;
+  }
+  .sobre{
+    margin: 0%;
+  }
+  .qualificacao{
+    letter-spacing: 4px;
+  }
+  .serviços{
+    margin: 100px;
+  }
+  .serv{
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+  }
+  .frase{
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 15px;
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+  }
+  .linha{
+    text-align: center;
+  }
+ .quadro{
+    text-align: center;
+    border: solid 3px #00a78e;
+    display: inline-block;
+    border-radius: 10px;
+    width: 280px;
+    height: 220px;
+    line-height: 60px;
+    margin: 8px;
+    cursor: pointer;
+ }
+ .icone{
+  height: 50px;
+ }
+ .quadro:hover{
+    color:aliceblue;
+    background-color: #00a78e;
+ }
+ .back{
+  text-align: center;
+ }
+ .enviar{
+  text-align: center;
+  background-color: #f9f9f9;
+  padding: 30px;
+ }
+ .seta{
+  height: 10px;
+ }
+ .end{
+  text-align: center;
+  background-color: #f9f9f9;
+  margin: 80px 0px 30px 0px;
+  padding: 30px;
+}
+.imagem{
+  text-align: left;
+}
+.social{
+  cursor: pointer;
+  margin: 0%;
+  list-style-type: none;
+}
+.midia{
+  display: inline-block;
+}
+.mapa{
+  text-align: center;
+  cursor: pointer;
+}
+.localiza{
+  text-align: right;
+  margin-right: 100px;
+}
+.encontre{
+  display: inline-block;
+}
+.mensagem{
+    cursor: pointer;
+    margin-top: 20px;
+}
+.mensagem:hover{
+  color: #293651;
+}
+.orcamento{
+  text-align: center;
+  margin: 10px;;
+}
+.aqui{
+  background-color: #00a78e;
+  margin: 30px;
+  padding: 30px;
+  color: aliceblue;
+}
+.whatts{
+  text-align: center;
+}
+.down{
+  color:cornflowerblue;
+}
